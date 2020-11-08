@@ -1,0 +1,8 @@
+pandas
+streamlit
+requests
+urllib
+json
+textdistance
+pickle
+time
